@@ -3,8 +3,8 @@
 All The HTML/CSS Project Repositories
 
 |  #  | Project                                                                         | Live Demo                                                           |
-| :-: | ------------------------------------------------------------------------------- | [Webpage](https://burakerl.github.io/NetflixForm/) |
-| 01  | [Netflix Form]
+| :-: | ------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 01  | [Netflix Form](https://github.com/burakerl/NetflixForm.git)                     | [Webpage](https://burakerl.github.io/NetflixForm/)                  |
 | 02  | [Chechout Form]
 | 03  | [Website Page Design]
 | 04  | [Team Members Page]
