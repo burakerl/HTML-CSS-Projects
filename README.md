@@ -10,4 +10,4 @@ All The HTML/CSS Project Repositories
 | 04  | [Team Members Page](https://github.com/burakerl/Team-Members-Page)              | [Webpage](https://burakerl.github.io/Team-Members-Page/)            |
 | 05  | [Google Landing Page](https://github.com/burakerl/Google-Landing-Page)          | [Webpage](https://burakerl.github.io/Google-Landing-Page/)          |
 | 06  | [Testimonials Page](https://github.com/burakerl/Testimonials-Page)              | [Webpage](https://burakerl.github.io/Testimonials-Page/)            |
-| 07  | [Portfolio Website]
+| 07  | [Social-Links-Profile](https://github.com/burakerl/Social-Links-Profile)        | [Webpage](https://burakerl.github.io/Social-Links-Profile/)         |
